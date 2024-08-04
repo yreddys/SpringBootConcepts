@@ -1,0 +1,10 @@
+in\yarraneella\service\DepartmentStudentImpl.class
+in\yarraneella\TransactionApplication.class
+in\yarraneella\model\DepartmentStudentResponse.class
+in\yarraneella\repository\DepartmentRepository.class
+in\yarraneella\repository\StudentRepository.class
+in\yarraneella\entity\Department.class
+in\yarraneella\model\DepartmentStudentRequest.class
+in\yarraneella\service\DepartmentStudentService.class
+in\yarraneella\controller\DepartmentStudentController.class
+in\yarraneella\entity\Student.class
