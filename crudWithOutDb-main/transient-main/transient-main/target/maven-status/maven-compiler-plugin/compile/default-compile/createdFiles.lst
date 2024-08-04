@@ -1,0 +1,6 @@
+in\yarraneella\repository\UserRepository.class
+in\yarraneella\service\UserServiceImpl.class
+in\yarraneella\controller\UserController.class
+in\yarraneella\service\UserService.class
+in\yarraneella\TransientApplication.class
+in\yarraneella\entity\User.class
